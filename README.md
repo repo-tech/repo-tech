@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 
 <h3 align="center">
-Full Stack Developer | Backend Engineer | DevOps Enthusiast
+Full Stack Developer | Frontend Engineer | DevOps Enthusiast
 </h3>
 
 <p align="center">
