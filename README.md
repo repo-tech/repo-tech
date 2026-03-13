@@ -30,19 +30,19 @@ Full Stack Developer | Backend Engineer | DevOps Enthusiast
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/himanshu-gupta-393905230/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/repo-tech/">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/your-leetcode">
+<a href="https://leetcode.com/u/hgupta414243/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/your-gfg">
+<a href="https://www.geeksforgeeks.org/profile/gzonev6q9/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
