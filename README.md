@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 
 <h3 align="center">
-Full Stack Developer | Frontend Engineer | DevOps Enthusiast
+Frontend Engineer | React.js Developer | Next.js Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;DevOps+Engineer;3%2B+Years+Experience+in+Web+Development;Building+Scalable+Applications&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;3%2B+Years+Experience+in+Frontend+Development;Building+Fast+Scalable+Web+Apps&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@ Full Stack Developer | Frontend Engineer | DevOps Enthusiast
 
 # 🚀 About Me
 
-- 💻 **Full Stack Developer with 3+ years of experience**
-- ⚡ Expertise in **Frontend, Backend & DevOps**
-- 🌐 Building **scalable and production-ready applications**
-- ☁️ Experienced with **Docker, AWS, CI/CD & Cloud Infrastructure**
-- 🧠 Strong interest in **System Design & High Scale Backend**
-- 📈 Regularly solving **DSA problems on LeetCode & GeeksforGeeks**
-- 🤝 Contributor to **Open Source Projects**
+- 💻 Frontend Engineer with **3+ years of experience**
+- ⚛️ Specialized in **React.js, Next.js, TypeScript**
+- 🎯 Building scalable, responsive, production-ready web applications
+- ⚡ Focused on **Performance optimization & Core Web Vitals**
+- 🎨 Strong interest in **UI/UX, clean design systems & accessibility**
+- 🔄 Experienced with **API integration, state management & testing**
+- ☁️ Familiar with **CI/CD, Docker, Vercel & deployment workflows**
 
 ---
 
@@ -52,51 +52,52 @@ Full Stack Developer | Frontend Engineer | DevOps Enthusiast
 
 # 🛠 Tech Stack
 
-### Frontend
-React.js
-Next.js
-JavaScript (ES6+)
-TypeScript
-HTML5
-CSS3
-TailwindCSS
-Redux
+## Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+- Bootstrap
+- AntDesign
+- Chakra UI
+- Storybook
+- GraphQL
 
+## State Management
+- Redux Toolkit
+- RTK Query
+- TanStack Query
+- Context API
 
-### Backend
+## Testing
+- Jest
+- React Testing Library
 
-Node.js
-Express.js
-REST APIs
-GraphQL
-Microservices Architecture
+## Performance
+- Code Splitting
+- Lazy Loading
+- SSR
+- SSG
+- Core Web Vitals
+- SEO Optimization
 
+## Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- Jira
+- Vercel
 
-### Database
-
-MongoDB
-PostgreSQL
-MySQL
-Redis
-
-
-### DevOps & Cloud
-
-Docker
-AWS
-CI/CD
-GitHub Actions
-Nginx
-Linux
-
-
-### Tools
-
-Git
-Postman
-VS Code
-Jira
-Agile / Scrum
+## Backend Knowledge
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
 
 ---
 
