@@ -148,6 +148,7 @@ I actively contribute to open-source projects through:
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -188,4 +189,12 @@ I actively contribute to open-source projects through:
 | ------- |
 | [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
