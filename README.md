@@ -148,6 +148,7 @@ I actively contribute to open-source projects through:
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/repo-tech/repo-tech/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
@@ -176,4 +177,12 @@ I actively contribute to open-source projects through:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
