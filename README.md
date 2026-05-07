@@ -150,6 +150,7 @@ I actively contribute to open-source projects through:
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/repo-tech/repo-tech/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
 | [3905-multi-source-flood-fill](https://github.com/repo-tech/repo-tech/tree/master/3905-multi-source-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -167,4 +168,12 @@ I actively contribute to open-source projects through:
 |  |
 | ------- |
 | [3905-multi-source-flood-fill](https://github.com/repo-tech/repo-tech/tree/master/3905-multi-source-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
