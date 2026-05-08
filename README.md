@@ -149,6 +149,7 @@ I actively contribute to open-source projects through:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@ I actively contribute to open-source projects through:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/repo-tech/repo-tech/tree/master/0283-move-zeroes) |
 ## Breadth-First Search
 |  |
@@ -201,4 +203,8 @@ I actively contribute to open-source projects through:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/repo-tech/repo-tech/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
