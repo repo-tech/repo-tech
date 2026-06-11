@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
+# Hi 👋, I'm Himanshu Gupta
 
 <h3 align="center">
-Frontend Engineer | React.js Developer | Next.js Developer
+Senior Frontend Engineer | React.js Developer | Next.js Developer | Full Stack JavaScript Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;3%2B+Years+Experience+in+Frontend+Development;Building+Fast+Scalable+Web+Apps&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;Full+Stack+JavaScript+Engineer;3%2B+Years+Experience;Building+Scalable+Web+Applications&center=true&width=700&height=50">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github&color=blue&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=repo-tech&color=blue&style=flat-square"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 Frontend Engineer with **3+ years of experience**
-- ⚛️ Specialized in **React.js, Next.js, TypeScript**
-- 🎯 Building scalable, responsive, production-ready web applications
-- ⚡ Focused on **Performance optimization & Core Web Vitals**
-- 🎨 Strong interest in **UI/UX, clean design systems & accessibility**
-- 🔄 Experienced with **API integration, state management & testing**
-- ☁️ Familiar with **CI/CD, Docker, Vercel & deployment workflows**
+* 💻 Frontend Engineer with **3+ years of professional experience**
+* ⚛️ Specialized in **React.js, Next.js, TypeScript, and modern frontend architectures**
+* 🚀 Building scalable, high-performance, production-ready web applications
+* 🎯 Strong focus on **Core Web Vitals, SEO, Accessibility (WCAG), and Performance Optimization**
+* 🔄 Experienced in **API integrations, authentication systems, state management, and testing**
+* ☁️ Familiar with cloud infrastructure, deployment workflows, and DevOps practices
+* 🤖 Leveraging AI-assisted development to accelerate software delivery
 
 ---
 
@@ -50,79 +50,158 @@ Frontend Engineer | React.js Developer | Next.js Developer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-## Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Material UI
-- Bootstrap
-- AntDesign
-- Chakra UI
-- Storybook
-- GraphQL
+## Languages
 
-## State Management
-- Redux Toolkit
-- RTK Query
-- TanStack Query
-- Context API
+* TypeScript
+* JavaScript (ES6+)
+* Python
+* Java
+
+## Frontend Development
+
+* React.js
+* Next.js
+* Redux Toolkit
+* RTK Query
+* React Query (TanStack Query)
+* Zustand
+* React Hook Form
+* Zod
+* HTML5
+* CSS3
+* Tailwind CSS
+* Material UI
+* Responsive Design
+* Accessibility (WCAG)
+
+## Backend Development
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* OAuth
+* Microservices Architecture
+
+## Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+* Firebase Firestore
+* Redis
+
+## Cloud Platforms
+
+* AWS
+
+  * EC2
+  * S3
+  * CloudFront
+  * IAM
+* Google Cloud Platform (GCP)
+* Firebase
+
+## DevOps & Infrastructure
+
+* Docker
+* CI/CD
+* GitHub Actions
+* Nginx
+* Vercel
 
 ## Testing
-- Jest
-- React Testing Library
 
-## Performance
-- Code Splitting
-- Lazy Loading
-- SSR
-- SSG
-- Core Web Vitals
-- SEO Optimization
+* Jest
+* React Testing Library
+* Unit Testing
+* Integration Testing
 
-## Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- Jira
-- Vercel
+## Performance Optimization
 
-## Backend Knowledge
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
+* Server-Side Rendering (SSR)
+* Static Site Generation (SSG)
+* Incremental Static Regeneration (ISR)
+* Code Splitting
+* Lazy Loading
+* Caching Strategies
+* Core Web Vitals
+* SEO Optimization
+
+## Architecture & Engineering
+
+* System Design
+* Design Patterns
+* Microservices
+* Agile/Scrum
+* SDLC
+* Code Reviews
+* AI-Assisted Development
+
+## Exposure To
+
+* Kafka
+* RabbitMQ
+* GraphQL
+* NestJS
+
+---
+
+# 💼 Professional Expertise
+
+### Frontend Engineering
+
+* Building enterprise-scale React and Next.js applications
+* Designing reusable component libraries and design systems
+* State management using Redux Toolkit, RTK Query, React Query, and Zustand
+* Performance optimization and accessibility compliance
+
+### Backend Integration
+
+* RESTful API integration
+* Authentication & Authorization
+* JWT & OAuth implementation
+* Microservices-based architecture exposure
+
+### Cloud & Deployment
+
+* AWS infrastructure fundamentals
+* CI/CD automation
+* Dockerized application deployments
+* Vercel and cloud hosting workflows
 
 ---
 
 # 🧠 Problem Solving
 
 ### LeetCode
-- Solving **Data Structures & Algorithms**
-- Focus on **System Design Oriented Problems**
 
-🔗 https://leetcode.com/hgupta414243
+* Active DSA Practice
+* Arrays, Hashing, Trees, Graphs, DP, Greedy, Backtracking
+* Focus on interview-oriented problem solving
+
+🔗 https://leetcode.com/u/hgupta414243/
 
 ### GeeksforGeeks
-- Practicing coding problems
-- Learning advanced algorithms
 
-🔗 https://www.geeksforgeeks.org/profile/gzonev6q9
+* Data Structures & Algorithms
+* Advanced Problem Solving
+* Competitive Programming Practice
+
+🔗 https://www.geeksforgeeks.org/profile/gzonev6q9/
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced **System Design**
-- **Distributed Systems**
-- **Kubernetes**
-- High Scale **Backend Architecture**
+* Advanced System Design
+* Distributed Systems
+* Kubernetes
+* Event-Driven Architecture
+* Scalable Backend Systems
+* AI-Powered Engineering Workflows
 
 ---
 
@@ -130,10 +209,27 @@ Frontend Engineer | React.js Developer | Next.js Developer
 
 I actively contribute to open-source projects through:
 
-- Bug fixes
-- Feature enhancements
-- Documentation improvements
-- Performance optimizations
+* Feature Development
+* Bug Fixes
+* Performance Improvements
+* Documentation Enhancements
+* Code Refactoring
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=repo-tech&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=repo-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repo-tech&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -141,103 +237,16 @@ I actively contribute to open-source projects through:
 
 📧 Email
 
-- hgupta414243@gmail.com
+* [hgupta414243@gmail.com](mailto:hgupta414243@gmail.com)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
-| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
-| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
-| [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0283-move-zeroes](https://github.com/repo-tech/repo-tech/tree/master/0283-move-zeroes) |
-| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-| [3905-multi-source-flood-fill](https://github.com/repo-tech/repo-tech/tree/master/3905-multi-source-flood-fill) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/repo-tech/repo-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
-| [0283-move-zeroes](https://github.com/repo-tech/repo-tech/tree/master/0283-move-zeroes) |
-## Breadth-First Search
-|  |
-| ------- |
-| [3905-multi-source-flood-fill](https://github.com/repo-tech/repo-tech/tree/master/3905-multi-source-flood-fill) |
-## Matrix
-|  |
-| ------- |
-| [3905-multi-source-flood-fill](https://github.com/repo-tech/repo-tech/tree/master/3905-multi-source-flood-fill) |
-## Hash Table
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/repo-tech/repo-tech/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/repo-tech/repo-tech/tree/master/0013-roman-to-integer) |
-| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [0560-subarray-sum-equals-k](https://github.com/repo-tech/repo-tech/tree/master/0560-subarray-sum-equals-k) |
-## Backtracking
-|  |
-| ------- |
-| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
-| [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0078-subsets](https://github.com/repo-tech/repo-tech/tree/master/0078-subsets) |
-| [0090-subsets-ii](https://github.com/repo-tech/repo-tech/tree/master/0090-subsets-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/repo-tech/repo-tech/tree/master/0004-median-of-two-sorted-arrays) |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/repo-tech/repo-tech/tree/master/0007-reverse-integer) |
-| [0012-integer-to-roman](https://github.com/repo-tech/repo-tech/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/repo-tech/repo-tech/tree/master/0013-roman-to-integer) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/repo-tech/repo-tech/tree/master/0015-3sum) |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## String
-|  |
-| ------- |
-| [0008-string-to-integer-atoi](https://github.com/repo-tech/repo-tech/tree/master/0008-string-to-integer-atoi) |
-| [0012-integer-to-roman](https://github.com/repo-tech/repo-tech/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/repo-tech/repo-tech/tree/master/0013-roman-to-integer) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/repo-tech/repo-tech/tree/master/0912-sort-an-array) |
-<!---LeetCode Topics End-->
+💼 Open for:
+
+* Frontend Engineer Roles
+* React.js Developer Roles
+* Next.js Developer Roles
+* Full Stack JavaScript Opportunities
+* Freelance & Contract Projects
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.
