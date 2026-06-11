@@ -16,7 +16,7 @@ Senior Frontend Engineer | React.js Developer | Next.js Developer | Full Stack J
 
 # 🚀 About Me
 
-* 💻 Frontend Engineer with **~3 years of professional experience**
+* 💻 Frontend Engineer with **2.10 years of professional experience**
 * ⚛️ Specialized in **React.js, Next.js, TypeScript, and modern frontend architectures**
 * 🚀 Building scalable, high-performance, production-ready web applications
 * 🎯 Strong focus on **Core Web Vitals, SEO, Accessibility (WCAG), and Performance Optimization**
