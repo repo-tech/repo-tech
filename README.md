@@ -234,3 +234,19 @@ I actively contribute to open-source projects through:
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/repo-tech/repo-tech/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/repo-tech/repo-tech/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/repo-tech/repo-tech/tree/master/0977-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
