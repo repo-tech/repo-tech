@@ -217,22 +217,6 @@ I actively contribute to open-source projects through:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=repo-tech&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=repo-tech&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repo-tech&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 📫 Contact Me
 
 📧 Email
