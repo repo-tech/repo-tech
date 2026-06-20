@@ -5,7 +5,7 @@ Senior Frontend Engineer | React.js Developer | Next.js Developer | Full Stack J
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;Full+Stack+JavaScript+Engineer;2.11%2B+Years+Experience;Building+Scalable+Web+Applications&center=true&width=700&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;Full+Stack+JavaScript+Engineer;3%2B+Years+Experience;Building+Scalable+Web+Applications&center=true&width=700&height=50">
 </p>
 
 <p align="center">
