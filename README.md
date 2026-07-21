@@ -1,11 +1,15 @@
 # Hi 👋, I'm Himanshu Gupta
 
 <h3 align="center">
-Full Stack Engineer | React.js • Next.js • Node.js • TypeScript
+Frontend Engineer | React.js • Next.js • TypeScript • JavaScript
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React.js+Developer;Next.js+Developer;Node.js+Developer;3%2B+Years+Experience;Building+Production+Ready+Applications&center=true&width=750&height=50">
+Building scalable, maintainable, and user-focused web experiences.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Building+Scalable+Web+Experiences;Engineering+Complex+User+Interfaces&center=true&width=750&height=50">
 </p>
 
 <p align="center">
@@ -14,17 +18,27 @@ Full Stack Engineer | React.js • Next.js • Node.js • TypeScript
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💻 Full Stack Engineer with **3+ years of professional experience** building scalable web applications.
+I'm a **Frontend Engineer with 2.7+ years of professional experience** building and maintaining production web applications with **React.js, Next.js, TypeScript, and JavaScript**.
 
-I specialize in building modern applications using **React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and MySQL**, with a strong focus on performance, maintainability, and clean architecture.
+My experience includes working on:
 
-Currently expanding my backend engineering expertise through hands-on projects involving **Java, Spring Boot, Python, Django, Golang, Kafka, RabbitMQ, Redis, and AWS**.
+* 🧩 **Micro-frontend architectures**
+* 🧱 **Reusable React component systems**
+* 📅 **Complex calendar and scheduling workflows**
+* 🔄 **Redux Toolkit and RTK Query**
+* 📱 **Responsive and accessible user interfaces**
+* ⚡ **Frontend performance optimization**
+* 🧪 **Automated testing and code quality**
+
+I enjoy solving complex frontend problems and turning product requirements into maintainable, scalable, and intuitive user experiences.
+
+Currently, I am also expanding my broader software engineering knowledge through structured learning in backend technologies and system design.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -52,186 +66,134 @@ Currently expanding my backend engineering expertise through hands-on projects i
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-- JavaScript (ES6+)
-- TypeScript
-- Java
-- Python
+## 💻 Technical Skills
 
 ### Frontend
 
-- React.js
-- Next.js
-- Redux Toolkit
-- RTK Query
-- Tailwind CSS
-- Material UI
-- HTML5
-- CSS3
-- React Hook Form
-- Zod
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* Redux Toolkit
+* RTK Query
+* Tailwind CSS
+* Material UI
+* React Hook Form
+* Zod
+* HTML5
+* CSS3
 
-### Backend
+### Frontend Architecture & Engineering
 
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- JWT Authentication
-- OAuth
-- GraphQL (Basic)
+* Micro-frontends
+* Component-Based Architecture
+* Reusable Component Systems
+* Responsive Web Design
+* Accessibility (WCAG)
+* Frontend Performance Optimization
+* REST API Integration
+* Client-Side Data Fetching & Caching
 
-### Databases
+### Testing & Code Quality
 
-- MongoDB
-- MySQL
-- PostgreSQL
-- Redis
-- Firebase Firestore
+* Jest
+* Enzyme
+* React Testing Library
+* SonarQube
 
-### DevOps & Cloud
+### Developer Tools
 
-- Docker
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
-- AWS (EC2, S3, CloudFront, IAM)
-- Vercel
-- Nginx
-- SonarQube
-- Postman
+* Git
+* GitHub
+* GitHub Actions
+* Vercel
+* Postman
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Full Stack Developer
-**Helpful Insights** *(May 2025 – Aug 2025)*
+### Software Engineer
 
-- Built a Redis-powered flight data pipeline.
-- Reduced third-party API requests through caching.
-- Improved dashboard performance using RTK Query.
-- Integrated Firebase Authentication with RBAC.
-- Assisted Dockerization and AWS deployment through GitHub Actions.
+**Deeporion Technology**
+*May 2022 – Dec 2024*
 
----
-
-## Software Engineer
-**Deeporion Technology (Builder.ai)** *(May 2022 – Dec 2024)*
-
-- Worked on production React and Next.js applications.
-- Developed reusable Material UI component libraries.
-- Built calendar and scheduling modules.
-- Improved MongoDB query performance.
-- Wrote unit & integration tests using Jest and Enzyme.
-- Participated in Agile development and client requirement discussions.
+* Developed and maintained frontend modules within a **micro-frontend architecture** supporting modular development and independent deployment workflows.
+* Designed and maintained reusable **React.js component systems** using Material UI to support consistent user experiences across product workflows.
+* Engineered complex **calendar and scheduling interfaces** with slot management, conflict detection, timezone normalization, and recurring-event workflows.
+* Implemented scalable client-side state management and data-fetching workflows using **Redux Toolkit and RTK Query**.
+* Built responsive interfaces using **React.js and TypeScript** across complex product workflows.
+* Developed and maintained unit and integration tests using **Jest and Enzyme** while supporting code quality through SonarQube.
+* Collaborated with product, design, engineering, and client-facing stakeholders to translate complex requirements into frontend solutions.
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Selected Professional Projects
 
-## 🤖 AI Hiring Platform
+### 🛒 Navo Ergonomics
 
-**Tech Stack**
+**Next.js • React • TypeScript • Redux Toolkit • RTK Query • Tailwind CSS**
 
-Next.js • Node.js • PostgreSQL • OpenAI API • Docker
+* Built a responsive e-commerce storefront using Next.js.
+* Implemented server-side rendering and SEO-focused routing.
+* Developed reusable product browsing, product detail, cart, and checkout interfaces.
+* Implemented client-side state management and data-fetching workflows using Redux Toolkit and RTK Query.
+* Built responsive experiences across desktop and mobile devices.
 
-### Features
-
-- Resume Parsing
-- AI Candidate Ranking
-- OpenAI Embeddings
-- Recruiter Dashboard
-- JWT Authentication
-- Dockerized Deployment
+🔗 https://navoergonomics.com
 
 ---
 
-## ✈️ Flight Data Pipeline
+### 🎓 Engagemo
 
-**Tech Stack**
+**React.js • TypeScript • Tailwind CSS**
 
-Node.js • Redis • Cron Jobs
+* Developed frontend workflows for a school management platform.
+* Built complex scheduling interfaces with slot management and conflict detection.
+* Implemented timezone normalization and recurring-event handling.
+* Developed reusable and responsive UI components across multiple product workflows.
+* Applied accessibility and usability practices to improve frontend interactions.
 
-### Highlights
-
-- Cache-first Architecture
-- 40% reduction in API cost
-- 60% faster response time
-- Automatic refresh every 5 minutes
-
----
-
-## 🛒 Navo Ergonomics
-
-🌐 https://navoergonomics.com
-
-**Stack**
-
-Next.js • RTK Query • Stripe • Tailwind CSS
-
-- SEO Optimized
-- SSR
-- Stripe Payments
-- Shopping Cart
-- High Performance
+🔗 https://engagemo.ai
 
 ---
 
-## 🎓 Engagemo
+## 📚 Currently Learning
 
-🌐 https://engagemo.ai
+Expanding my broader software engineering knowledge through hands-on learning in:
 
-**Stack**
-
-React.js • Node.js • MongoDB
-
-- School Management Platform
-- JWT Authentication
-- Scheduling Engine
-- Accessibility Improvements
-- Timezone-aware Calendar
-
----
-
-# 📚 Currently Learning
-
-- Java
-- Spring Boot
-- Python
-- Django
-- Golang
-- Apache Kafka
-- RabbitMQ
-- Redis
-- System Design
-- AWS
-- Scalable Backend Architecture
+* Java & Spring Boot
+* Python & Django
+* Golang
+* Apache Kafka
+* RabbitMQ
+* Redis
+* System Design
+* Scalable Backend Architecture
 
 ---
 
-# 🧠 Problem Solving
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms to strengthen problem-solving and technical interview skills.
 
 ### LeetCode
-
-- Data Structures
-- Algorithms
-- Interview Preparation
 
 🔗 https://leetcode.com/u/hgupta414243/
 
 ### GeeksforGeeks
 
-- DSA Practice
-- Problem Solving
-
 🔗 https://www.geeksforgeeks.org/profile/gzonev6q9/
 
 ---
+
+## 🎯 Current Focus
+
+I'm currently looking for opportunities as a:
+
+**Frontend Engineer | React Engineer | React.js Developer | Next.js Developer | Software Engineer — Frontend**
+
+My primary focus is building scalable frontend applications with **React.js, Next.js, TypeScript, and modern frontend architecture**.
 
 # 📊 GitHub Stats
 
