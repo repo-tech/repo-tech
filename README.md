@@ -1,15 +1,15 @@
 # Hi 👋, I'm Himanshu Gupta
 
 <h3 align="center">
-Frontend Engineer | React.js • Next.js • TypeScript • JavaScript
+Full Stack Engineer | React.js • Next.js • Node.js • TypeScript
 </h3>
 
 <p align="center">
-Building scalable, maintainable, and user-focused web experiences.
+Building scalable, maintainable, and user-focused web experiences — from frontend interfaces to backend APIs.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Building+Scalable+Web+Experiences;Engineering+Complex+User+Interfaces&center=true&width=750&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;React.js+%2B+Next.js+Developer;Node.js+%2B+TypeScript+Developer;Building+Scalable+Web+Applications;Exploring+AI-Powered+Applications&center=true&width=750&height=50">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Building scalable, maintainable, and user-focused web experiences.
 
 ## 🚀 About Me
 
-I'm a **Frontend Engineer with 2.7+ years of professional experience** building and maintaining production web applications with **React.js, Next.js, TypeScript, and JavaScript**.
+I'm a **Full Stack Engineer with 3+ years of professional experience** building and maintaining production web applications using **React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL**.
 
 My experience includes working on:
 
@@ -28,13 +28,13 @@ My experience includes working on:
 * 🧱 **Reusable React component systems**
 * 📅 **Complex calendar and scheduling workflows**
 * 🔄 **Redux Toolkit and RTK Query**
+* 🔧 **REST APIs and backend services with Node.js and Express**
+* 🤖 **AI-powered features using OpenAI embeddings and semantic search**
 * 📱 **Responsive and accessible user interfaces**
-* ⚡ **Frontend performance optimization**
+* ⚡ **Application performance optimization**
 * 🧪 **Automated testing and code quality**
 
-I enjoy solving complex frontend problems and turning product requirements into maintainable, scalable, and intuitive user experiences.
-
-Currently, I am also expanding my broader software engineering knowledge through structured learning in backend technologies and system design.
+I enjoy solving complex engineering problems end-to-end — from backend data flows to the interfaces people actually use — and turning product requirements into maintainable, scalable experiences.
 
 ---
 
@@ -71,7 +71,7 @@ Currently, I am also expanding my broader software engineering knowledge through
 ### Frontend
 
 * React.js
-* Next.js
+* Next.js (SSR/SSG)
 * TypeScript
 * JavaScript (ES6+)
 * Redux Toolkit
@@ -83,16 +83,40 @@ Currently, I am also expanding my broader software engineering knowledge through
 * HTML5
 * CSS3
 
-### Frontend Architecture & Engineering
+### Backend
+
+* Node.js
+* Express.js
+* NestJS (basic)
+* REST APIs
+* GraphQL (basic)
+* JWT Authentication
+* OAuth
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+* Redis
+* Firebase
+
+### AI
+
+* OpenAI API
+* Prompt Engineering
+* Embeddings
+* Semantic Search
+* LLM Integration
+
+### Architecture & Engineering Practices
 
 * Micro-frontends
 * Component-Based Architecture
-* Reusable Component Systems
 * Responsive Web Design
 * Accessibility (WCAG)
-* Frontend Performance Optimization
-* REST API Integration
-* Client-Side Data Fetching & Caching
+* Performance Optimization
+* Client-Side & Server-Side Caching
 
 ### Testing & Code Quality
 
@@ -101,17 +125,28 @@ Currently, I am also expanding my broader software engineering knowledge through
 * React Testing Library
 * SonarQube
 
-### Developer Tools
+### Cloud & Developer Tools
 
-* Git
-* GitHub
-* GitHub Actions
-* Vercel
+* AWS (EC2, S3, CloudFront, IAM)
+* Docker
+* Git, GitHub, GitHub Actions
+* CI/CD
+* Nginx, Vercel
 * Postman
 
 ---
 
 ## 💼 Professional Experience
+
+### Full Stack Developer
+
+**Helpful Insights**
+*May 2025 – Aug 2025*
+
+* Built a real-time flight data pipeline in Node.js using scheduled cron jobs and a Redis caching layer, cutting average response latency by 60%.
+* Implemented client-side caching with Redux Toolkit and RTK Query, reducing redundant API calls on production dashboards.
+* Integrated Firebase Authentication with role-based access control.
+* Containerized services with Docker and set up GitHub Actions CI/CD pipelines for deployment to AWS.
 
 ### Software Engineer
 
@@ -120,56 +155,56 @@ Currently, I am also expanding my broader software engineering knowledge through
 
 * Developed and maintained frontend modules within a **micro-frontend architecture** supporting modular development and independent deployment workflows.
 * Designed and maintained reusable **React.js component systems** using Material UI to support consistent user experiences across product workflows.
-* Engineered complex **calendar and scheduling interfaces** with slot management, conflict detection, timezone normalization, and recurring-event workflows.
+* Built complex **calendar and scheduling interfaces** with slot management, conflict detection, timezone normalization, and recurring-event workflows.
+* Improved MongoDB query performance through indexing and schema adjustments.
 * Implemented scalable client-side state management and data-fetching workflows using **Redux Toolkit and RTK Query**.
-* Built responsive interfaces using **React.js and TypeScript** across complex product workflows.
-* Developed and maintained unit and integration tests using **Jest and Enzyme** while supporting code quality through SonarQube.
-* Collaborated with product, design, engineering, and client-facing stakeholders to translate complex requirements into frontend solutions.
+* Wrote unit and integration tests using **Jest and Enzyme** and maintained code quality with SonarQube.
+* Collaborated with product, design, engineering, and client-facing stakeholders to translate requirements into technical solutions.
 
 ---
 
-## 🛠️ Selected Professional Projects
+## 🛠️ Selected Projects
+
+### 🤖 AI Hiring Platform
+
+**Next.js • Node.js • PostgreSQL • OpenAI API • Docker**
+
+* Built a recruiting tool that parses resumes and uses OpenAI embeddings for semantic matching against job descriptions, producing ranked candidate shortlists.
+* Implemented JWT-based authentication and a recruiter dashboard for tracking candidate status.
+* Containerized the application with Docker for local development and deployment testing.
+
+### ✈️ Flight Data Pipeline
+
+**Node.js • Redis • Cron Jobs**
+
+* Built a cache-first data pipeline serving flight data from Redis, calling the third-party API only on cache expiry — reducing external API costs by 40%.
+* Scheduled cron jobs at 5-minute intervals to refresh cached data, with retry handling for failed calls.
 
 ### 🛒 Navo Ergonomics
 
 **Next.js • React • TypeScript • Redux Toolkit • RTK Query • Tailwind CSS**
 
-* Built a responsive e-commerce storefront using Next.js.
-* Implemented server-side rendering and SEO-focused routing.
-* Developed reusable product browsing, product detail, cart, and checkout interfaces.
-* Implemented client-side state management and data-fetching workflows using Redux Toolkit and RTK Query.
-* Built responsive experiences across desktop and mobile devices.
+* Built a responsive e-commerce storefront using Next.js with server-side rendering and SEO-focused routing.
+* Developed product browsing, cart, and checkout interfaces with Redux Toolkit and RTK Query for state and data management.
 
 🔗 https://navoergonomics.com
 
----
-
 ### 🎓 Engagemo
 
-**React.js • TypeScript • Tailwind CSS**
+**React.js • TypeScript • Node.js • MongoDB • Tailwind CSS**
 
-* Developed frontend workflows for a school management platform.
-* Built complex scheduling interfaces with slot management and conflict detection.
-* Implemented timezone normalization and recurring-event handling.
-* Developed reusable and responsive UI components across multiple product workflows.
-* Applied accessibility and usability practices to improve frontend interactions.
+* Developed a scheduling engine for a school management platform with slot management, conflict detection, and recurring-event handling.
+* Implemented JWT authentication and contributed backend optimizations that improved API response times.
 
 🔗 https://engagemo.ai
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-Expanding my broader software engineering knowledge through hands-on learning in:
-
-* Java & Spring Boot
-* Python & Django
-* Golang
-* Apache Kafka
-* RabbitMQ
-* Redis
-* System Design
-* Scalable Backend Architecture
+* System design fundamentals — scalability, caching strategies, and API design
+* Deeper hands-on AWS and event-driven architecture (Kafka, RabbitMQ)
+* Backend fundamentals in Java/Spring Boot, Python/Django, and Golang
 
 ---
 
@@ -177,24 +212,16 @@ Expanding my broader software engineering knowledge through hands-on learning in
 
 I regularly practice Data Structures and Algorithms to strengthen problem-solving and technical interview skills.
 
-### LeetCode
-
-🔗 https://leetcode.com/u/hgupta414243/
-
-### GeeksforGeeks
-
-🔗 https://www.geeksforgeeks.org/profile/gzonev6q9/
+**LeetCode:** https://leetcode.com/u/hgupta414243/
+**GeeksforGeeks:** https://www.geeksforgeeks.org/profile/gzonev6q9/
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Looking For
 
-I'm currently looking for opportunities as a:
+**Full Stack Engineer | React.js / Next.js Developer | MERN Stack Developer | AI Application Engineer**
 
-**Frontend Engineer | React Engineer | React.js Developer | Next.js Developer | Software Engineer — Frontend**
-
-My primary focus is building scalable frontend applications with **React.js, Next.js, TypeScript, and modern frontend architecture**.
-
+My focus is building scalable full stack applications with **React.js, Next.js, Node.js, TypeScript**, and increasingly, **AI-powered features**.
 # 📊 GitHub Stats
 
 <p align="center">
