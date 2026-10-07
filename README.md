@@ -50,7 +50,7 @@ I enjoy solving complex engineering problems end-to-end — from backend data fl
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:hgupta414243@gmail.com">
+<a href="mailto:himanshuguptadev7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
