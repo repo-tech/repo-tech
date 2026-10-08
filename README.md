@@ -244,7 +244,7 @@ My focus is building scalable full stack applications with **React.js, Next.js, 
 
 📧 **Email**
 
-hgupta414243@gmail.com
+himanshuguptadev7@gmail.com
 
 📍 Jaipur, Rajasthan, India
 
